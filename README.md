@@ -1,4 +1,4 @@
-<img src= "https://ibb.co/F08vwQH" />
+<img src= "hhttps://i.ibb.co/9VyXTxZ/image.png" />
 <h1 align="center"> Agricultech </h1>
 <p align="center">Projeto desenvolvido no Bootcamp Call for Code 2021 da IBM</p>
 
