@@ -74,6 +74,7 @@ No mercado de produção agrícola, há vários sistemas que focam em pontos esp
 
 ## Automação
 Diversos projetos de protótipos criados para sistemas de automatização do cultivo de hortas hidropônicas são elaborados e discutidos ao longo dos anos. Um meio viável é o emprego dos sensores destacados no tópico acima sendo controlados por microcontroladores Arduíno, que também é capaz de controlar o motor para distribuição de água no sistema.
+
 [Automação de Hortas Hidropônicas](https://unisalesiano.com.br/aracatuba/wp-content/uploads/2021/03/13_Automacao-de-Hortas_206_218.pdf)
 
 ## Agricultech
