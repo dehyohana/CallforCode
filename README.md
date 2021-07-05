@@ -1,20 +1,23 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/F08vwQH/image.png" alt="image" class="center"/></a>
 <h1 align="center"> Agricultech </h1>
-<p align="center">Projeto desenvolvido no Bootcamp Call for Code 2021 da IBM</p>
+<p align="center">Hortas verticais automatizadas</p>
 
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Agenda Onu 2030](#agenda-onu)
-   * [Fome Zero](#fome-zero)
-   * [Hortas horizontais](#hortas-verticais)
-      * [Hortas hidropônicas](#hidroponicas)
+   * [Agenda Onu 2030](#Agenda ONU 2030)
+   * [Fome Zero](#Fome Zero)
+   * [Hortas verticais](#Hortas verticais)
+      * [Hortas hidropônicas](#Hortas hidroponicas)
       * [Sensores](#sensores)
-      * [Automação](#automacao)
+      * [Automação](#automação)
    * [Agricultech](#Agricultech)
-   * [Tecnologias](#tecnologias)
+   * [Tecnologias](#Tecnologias)
 <!--te-->
+
+# Sobre
+Este projeto foi desenvolvido durante o Bootcamp Call for Code 2021 da IEE e IBM atendendo o objetivo de medidas paa erradicar a fome através da tecnologia.
 
 # Agenda ONU 2030
 
@@ -33,7 +36,7 @@ Este é um plano para governos, sociedade, empresas, academia e para **_você_**
 [Mais informações sobre a agenda ONU](http://www.agenda2030.org.br/sobre/)
 
 
-# Fome-Zero
+# Fome Zero
 
 > ### Objetivo 2.  Fome zero e agricultura sustentável ![ODS2](https://voluntariadoempresarial.com.br/wp-content/uploads/2017/07/ods2.png)
 > Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável
@@ -53,6 +56,13 @@ Além do aumento da população que passa fome no país, a pesquisa mostrou tamb
 - Fatores determinantes para o agravamento do cenário no país foram o avanço da extrema pobreza no país, corte de políticas públicas em segurança alimentar e diminuição de inserção de famílias em programas de transferência de renda.
 
 [Fome no Brasil: em 5 anos, cresce em 3 milhões o nº de pessoas em situação de insegurança alimentar grave, diz IBGE](https://g1.globo.com/economia/noticia/2020/09/17/fome-no-brasil-em-5-anos-cresce-em-3-milhoes-o-no-de-pessoas-em-situacao-de-inseguranca-alimentar-grave-diz-ibge.ghtml)
+
+## Hortas verticais
+
+As hortas comunitárias no meio urbano tem se expandido nos últimos anos, a necessidade de incrementar o verde nas grandes cidades que perderam muito dessa cor para o cinza dos prédios e asfaltos. A ideia das hortas comunitárias vem de medidas e movimentos dos próprios moradores das cidades, e pequenos agricultores. A ideia principal é construir um local onde se possa plantar e colher, e que atenda a comunidade ali instalada.
+A horta comunitária AgroFavela Refazenda, inaugurada em outubro de 2020 em Paraisópolis, comunidade da região metropolitana de São Paulo, produziu 300 quilos de hortaliças em apenas dois meses. O projeto, criado pelo Instituto Stop Hunger Brasil em parceria com o G10 Favelas, tem o intuito de fornecer alimentos para os moradores da comunidade e para o Mãos de Maria, iniciativa que produz quentinhas para seus habitantes. De outubro a dezembro, mais de mil pessoas foram beneficiadas diretamente com o recebimento de hortaliças colhidas na horta comunitária, sendo 5.045 beneficiadas indiretamente. 
+
+[Horta comunitária de Parisópolis produz 300 quilos de hortaliças](https://www.uol.com.br/ecoa/ultimas-noticias/2021/03/01/horta-comunitaria-de-paraisopolis-produz-300-quilos-de-hortalicas.htm)
 
 ## Hortas hidropônicas
 
@@ -80,7 +90,7 @@ A ideia deste projeto é a construção de um aplicativo mobile, com diversas fu
 
 Com estes recursos, espera-se que a plantação de hortaliça e frutos retorne ao usuário como fonte de renda, além de contribuição para redução de desperdício de alimentos e opções de mais diversidade de produtos orgânicos em sua alimentação.
 
-## Tecnologia
+## Tecnologias
 
 A construção do protótipo foi feita através dos recursos da IBMCloud. 
 O aplicativo é construído com a tecnologia Node-RED, permitindo a integração dos sensores com o aparelho do usuário pelo recurso de IoT disponibilizado pelo Watson Studio. 
