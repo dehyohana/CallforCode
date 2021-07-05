@@ -18,6 +18,8 @@ Tabela de conteúdos
 
 # Sobre
 Este projeto foi desenvolvido durante o Bootcamp Call for Code 2021 da IEE e IBM atendendo o objetivo de medidas paa erradicar a fome através da tecnologia.
+Veja a apresentação clicando na imagem abaixo.
+
 [![Agricultech](http://img.youtube.com/vi/CDgyqbcgAA8/0.jpg)](http://www.youtube.com/watch?v=CDgyqbcgAA8 "Agricultech")
 
 # Agenda ONU 2030
